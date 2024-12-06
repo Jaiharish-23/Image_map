@@ -161,6 +161,12 @@ Stella_Seaside_Lounge.HTML
 ```
 
 # OUTPUT
-![Uploading Screenshot (199).png…]()
+![screencapture-file-C-Users-admin-Desktop-HTML-STARTING-POINT-imagemap-html-2024-12-06-21_43_15](https://github.com/user-attachments/assets/01e1b3ba-c116-4fe7-9303-8d17db0d4560)
+![Screenshot (199)](https://github.com/user-attachments/assets/0d8786e9-090b-471c-863e-7c85a493ef73)
+![Screenshot (200)](https://github.com/user-attachments/assets/69203675-4dc2-42ec-9907-79ae4d9e1f47)
+![Screenshot (201)](https://github.com/user-attachments/assets/3873eabd-2e8b-4a92-830f-d392ecf01a66)
+![Screenshot (202)](https://github.com/user-attachments/assets/8f0cc894-7ff9-4766-80cd-8cad6b9f4dc5)
+![Screenshot (203)](https://github.com/user-attachments/assets/10dde2ea-b1f4-4774-9338-1ea407b8d1d0)
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
