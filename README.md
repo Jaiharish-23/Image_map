@@ -161,12 +161,15 @@ Stella_Seaside_Lounge.HTML
 ```
 
 # OUTPUT
-![screencapture-file-C-Users-admin-Desktop-HTML-STARTING-POINT-imagemap-html-2024-12-06-21_43_15](https://github.com/user-attachments/assets/01e1b3ba-c116-4fe7-9303-8d17db0d4560)
-![Screenshot (199)](https://github.com/user-attachments/assets/0d8786e9-090b-471c-863e-7c85a493ef73)
-![Screenshot (200)](https://github.com/user-attachments/assets/69203675-4dc2-42ec-9907-79ae4d9e1f47)
-![Screenshot (201)](https://github.com/user-attachments/assets/3873eabd-2e8b-4a92-830f-d392ecf01a66)
-![Screenshot (202)](https://github.com/user-attachments/assets/8f0cc894-7ff9-4766-80cd-8cad6b9f4dc5)
-![Screenshot (203)](https://github.com/user-attachments/assets/10dde2ea-b1f4-4774-9338-1ea407b8d1d0)
+![screencapture-file-C-Users-admin-Desktop-HTML-STARTING-POINT-imagemap-html-2024-12-06-22_04_34](https://github.com/user-attachments/assets/95b2ad47-e9b5-4658-8dd5-815d408d2743)
+
+![Screenshot (204)](https://github.com/user-attachments/assets/b72e8c8d-4d9a-4eba-9e64-92a8cc56cda4)
+![Screenshot (205)](https://github.com/user-attachments/assets/ef1d4474-125d-41ff-8837-10a5aae76570)
+![Screenshot (207)](https://github.com/user-attachments/assets/c6fdacd1-ef01-47cc-8f2d-ab1a184463dd)
+![Screenshot (208)](https://github.com/user-attachments/assets/fa7bf037-f907-453a-8dd0-22d7e50d91ca)
+![Screenshot (209)](https://github.com/user-attachments/assets/a883be54-6792-4882-a368-263ed1bdcc31)
+
+
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
